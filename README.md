@@ -1,1 +1,4 @@
-# conway_game_of_life_code
+# Game Of Life
+
+
+https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
