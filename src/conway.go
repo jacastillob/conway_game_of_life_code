@@ -82,7 +82,7 @@ func computeGenerations() {
 	print(gSeed)
 	i := 0
 	for {
-		//print(gSeed)
+		print(gSeed)
 		newGeneration := computeGeneration(gSeed)
 		gSeed = newGeneration
 
